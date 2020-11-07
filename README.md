@@ -4,4 +4,4 @@
 
 An interactive dashboard of belly button micro-organisms developed from a dataset of volunteer provided samples. Data is served from a Python Flask application and dynamically gathered and presented with javascript and Plotly.
 
-Visit deployed page https://github.com/mzimerman/mzimerman.github.io.git
+Visit deployed page https://mzimerman.github.io/
